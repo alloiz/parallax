@@ -46,8 +46,7 @@
     height: 100vh;
   }
   
-  /* Sets the actual background images to adorable kitties. This part is crucial. */
-   .bg1 {
+  .bg1 {
      background-color: orange;
   } 
   
